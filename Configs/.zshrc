@@ -60,5 +60,5 @@ alias vc='code --disable-gpu' # gui code editor
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-#Display Pokemon
-pokemon-colorscripts --no-title -r 1,3,6
+#Display Pokemon unpin it to not to show pokemon colorscripts
+# pokemon-colorscripts --no-title -r 1,3,6
